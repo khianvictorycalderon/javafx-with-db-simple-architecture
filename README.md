@@ -1,8 +1,6 @@
 # JavaFX With DB Simple Architecture
 Built with routing and simplified database usage (MySQL + SQLite).
 
----
-
 ## Previews
 
 ![Home Preview](previews/home_preview.png)
@@ -30,7 +28,7 @@ Built with routing and simplified database usage (MySQL + SQLite).
 - Editable metadata (`config.properties`).
 - Integrated CSS (`style.css`).
 
-## IN SIMPLE WORDS:
+## NOTES:
 - To add any action, just add `public void <name>` in `Actions.java` for custom logic.
 - Simplified usage of database queries.
 - Do not edit `Main.java`
